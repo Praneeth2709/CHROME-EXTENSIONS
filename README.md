@@ -26,3 +26,6 @@ The development process included:
 The extension can be installed in the Chrome browser, and users can view their productivity analytics at any time through the dashboard. The system is designed to be flexible, so new features like custom website categories or daily goals can be added in the future. The main focus was to keep the extension lightweight, easy to use, and effective at helping users understand and improve their online habits.
 
 #Output:
+
+
+<img width="1840" height="998" alt="Image" src="https://github.com/user-attachments/assets/2e17b5c5-565c-4193-879d-0e845a2f053f" />
